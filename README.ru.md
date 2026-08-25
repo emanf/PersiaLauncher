@@ -1,5 +1,7 @@
 # ✨ PersiaLauncher
 
+**🌍 Языки:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+
 > **Ваш Minecraft-мир. Ваши правила. Ваш лаунчер.**
 
 PersiaLauncher — удобный и красивый лаунчер для управления клиентами, серверами, аккаунтами, Java и модами Minecraft.
@@ -40,3 +42,5 @@ PersiaLauncher — удобный и красивый лаунчер для уп
 5. Создайте профиль и запустите игру.
 
 [Вернуться к README на английском](README.md)
+
+Проект распространяется по [PersiaLauncher Community License](LICENSE) и разрешён для личного и коммерческого использования, публикации и загрузки.

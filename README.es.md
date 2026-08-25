@@ -1,5 +1,7 @@
 # ✨ PersiaLauncher
 
+**🌍 Idiomas:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+
 > **Tu mundo de Minecraft. Tus reglas. Tu launcher.**
 
 PersiaLauncher es un launcher moderno y fácil de usar para gestionar clientes, servidores, cuentas, Java y mods de Minecraft.
@@ -40,3 +42,5 @@ Compatible con:
 5. Crea el perfil y empieza a jugar.
 
 [Volver al README en inglés](README.md)
+
+Este proyecto se publica bajo la [PersiaLauncher Community License](LICENSE) y se puede usar, publicar, subir y redistribuir gratuitamente con fines personales o comerciales.

@@ -1,5 +1,7 @@
 # ✨ PersiaLauncher
 
+**🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+
 > **Your Minecraft world. Your rules. Your launcher.**
 
 PersiaLauncher is a friendly, modern Minecraft launcher built for players who want their worlds, profiles, servers, mods, and settings in one beautifully organized place.
@@ -52,13 +54,6 @@ PersiaLauncher keeps the complicated parts out of your way while still giving yo
 
 Your first launch may download game files, libraries, loader files, or a Java runtime. After that, everything is ready for the next adventure.
 
-## 🌍 Read this in another language
-
-- 🇮🇷 [فارسی](README.fa.md)
-- 🇷🇺 [Русский](README.ru.md)
-- 🇩🇪 [Deutsch](README.de.md)
-- 🇪🇸 [Español](README.es.md)
-
 ## 🛠️ Project status
 
 PersiaLauncher is actively evolving. New improvements, loader support, quality-of-life features, and language updates are added over time.
@@ -71,7 +66,7 @@ Ideas, translations, testing, screenshots, documentation, and code are all welco
 
 ## 📄 License
 
-See the repository license for usage and redistribution details.
+PersiaLauncher is free to use, share, upload, fork, and redistribute for personal or commercial purposes under the [PersiaLauncher Community License](LICENSE).
 
 ---
 

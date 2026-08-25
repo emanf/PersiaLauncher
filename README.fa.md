@@ -1,5 +1,7 @@
 # ✨ PersiaLauncher
 
+**🌍 زبان‌ها:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+
 > **دنیای ماینکرفت شما، قوانین شما، لانچر شما**
 
 PersiaLauncher یک لانچر زیبا و کاربردی برای مدیریت کلاینت‌ها، سرورها، اکانت‌ها، جاوا و مادهای ماینکرفت است.
@@ -40,3 +42,5 @@ PersiaLauncher یک لانچر زیبا و کاربردی برای مدیریت 
 5. پروفایل را بسازید و بازی را اجرا کنید.
 
 [بازگشت به README انگلیسی](README.md)
+
+این پروژه تحت [مجوز PersiaLauncher Community License](LICENSE) منتشر شده و برای استفاده شخصی و تجاری، انتشار و آپلود آزاد است.
