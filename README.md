@@ -1,4 +1,4 @@
-# <img src="icon.ico"> PersiaLauncher
+# <img src="icon.ico" width="32px"> PersiaLauncher
 
 **🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
