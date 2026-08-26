@@ -1,46 +1,63 @@
-# <img src="icon.ico" width="28px"> PersiaLauncher
+# ✨ PersiaLauncher
 
 **🌍 Idiomas:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
 > **Tu mundo de Minecraft. Tus reglas. Tu launcher.**
 
-PersiaLauncher es un launcher moderno y fácil de usar para gestionar clientes, servidores, cuentas, Java y mods de Minecraft.
+PersiaLauncher es un launcher moderno y ordenado para gestionar clientes, perfiles, servidores, cuentas, mods y ajustes de Minecraft desde un solo lugar.
 
-Crea perfiles Vanilla, prepara instalaciones modificadas y cambia entre versiones sin complicaciones.
+Juega en Vanilla, prepara instalaciones modded y cambia entre versiones y perfiles sin complicaciones.
 
-Compatible con:
+## Loaders compatibles
 
 **Vanilla · Fabric · Forge · NeoForge · Quilt**
 
 ## Funciones
 
-- Gestión de varios clientes de Minecraft
-- Gestión de servidores y mundos
-- Perfiles separados para versiones y modpacks
-- Instalación y gestión de mods
-- Configuración de Java, memoria y argumentos JVM
+- Gestión de clientes Vanilla, Fabric, Forge, NeoForge y Quilt
+- Gestión de servidores y mundos de servidor
+- Perfiles separados para versiones, modpacks y estilos de juego
+- Búsqueda y gestión de mods
+- Configuración de Java, memoria, Garbage Collection y argumentos JVM
 - Gestión de cuentas y skins
-- Temas, colores y opciones de ventana
+- Temas, colores, idioma y opciones de ventana
 - Carpeta de Minecraft configurable
+- Inicio rápido con ajustes guardados
 
-## Capturas
+## 🖼️ Capturas
 
-![Pantalla principal](screenshots/ss_main.png)
+<p align="center">
+  <img src="screenshots/ss_main.png" alt="Pantalla principal de PersiaLauncher" width="48%">
+  <img src="screenshots/ss_clients.png" alt="Pantalla de clientes" width="48%">
+</p>
 
-![Clientes](screenshots/ss_clients.png)
+<p align="center">
+  <img src="screenshots/ss_accounts.png" alt="Pantalla de cuentas" width="48%">
+  <img src="screenshots/ss_mods.png" alt="Pantalla de mods" width="48%">
+</p>
 
-![Cuentas](screenshots/ss_accounts.png)
-
-![Mods](screenshots/ss_mods.png)
-
-## Primeros pasos
+## 🧭 Primeros pasos
 
 1. Descarga la última versión de PersiaLauncher.
-2. Elige la carpeta de Minecraft.
+2. Abre el launcher y elige tu carpeta de Minecraft.
 3. Añade una cuenta o crea un perfil.
 4. Selecciona la versión de Minecraft y el loader.
-5. Crea el perfil y empieza a jugar.
+5. Pulsa **Create**, configura el perfil y empieza a jugar.
+
+En el primer inicio pueden descargarse archivos del juego, librerías, archivos del loader o Java.
+
+## 🛠️ Estado del proyecto
+
+PersiaLauncher sigue creciendo. Nuevas funciones, loaders y traducciones se añaden con el tiempo.
+
+¿Encontraste un error o tienes una idea? Abre un Issue e indica la versión de Minecraft y todos los detalles posibles.
+
+## 🤝 Contribuir
+
+Las traducciones, pruebas, capturas, documentación, ideas y código son bienvenidos.
+
+## 📄 Licencia
+
+PersiaLauncher se publica bajo la [PersiaLauncher Community License](LICENSE). Puedes usarlo, publicarlo, subirlo, hacer forks y redistribuirlo gratis para fines personales o comerciales, manteniendo la atribución y las condiciones de la licencia.
 
 [Volver al README en inglés](README.md)
-
-Este proyecto se publica bajo la [PersiaLauncher Community License](LICENSE) y se puede usar, publicar, subir y redistribuir gratuitamente con fines personales o comerciales.
