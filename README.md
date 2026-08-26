@@ -1,9 +1,7 @@
 # <img src="icon.ico" width="28px"> PersiaLauncher
+<p alignimg src="icon.ico" width="28px"> PersiaLauncher
 <p align="center">
-تقدیم به تمام فارسی‌زبانان جهان؛
-</p>
-
-**🌍 Languages:** [English](README.md) · [فارسی.md) · [Español](README.es.md.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+**🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
 <p align="center">
   <img src="screenshots/ss_main.png" alt="PersiaLauncher main screen" width="48%">
@@ -45,7 +43,7 @@ PersiaLauncher keeps the complicated parts out of your way while still giving yo
 - 🖥️ Manage Minecraft servers and server worlds
 - 📦 Keep separate profiles for different versions, modpacks, and play styles
 - 🧩 Browse and manage mods for supported modded clients
-- ☕ Configure Java profiles, memory, garbage colors, language, window behavior
+- ☕ Configure Java profiles, memory, garbage collection, and extra JVM arguments
 - 👤 Manage Minecraft accounts and skins
 - 🎨 Choose themes, colors, language, window behavior, and display settings
 - 📁 Choose a custom Minecraft directory and move your launcher without breaking relative paths
