@@ -72,7 +72,7 @@ Ideas, translations, testing, screenshots, documentation, and code are all welco
 
 ## 📄 License
 
-PersiaLauncher is free to use, share, upload, fork, and redistribute for personal or commercial purposes under the [PersiaLauncher Community License](LICENSE).
+PersiaLauncher is free to use, share, upload, fork, and redistribute for personal purposes.
 
 ---
 
