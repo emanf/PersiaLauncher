@@ -1,6 +1,7 @@
 # <img src="icon.ico" width="28px"> PersiaLauncher
-<p alignimg src="icon.ico" width="28px"> PersiaLauncher
 <p align="center">
+تقدیم به تمام فارسی‌زبانان جهان؛
+</p>
   
 **🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
