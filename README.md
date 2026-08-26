@@ -52,7 +52,7 @@ PersiaLauncher keeps the complicated parts out of your way while still giving yo
 
 ## 🧭 Getting started
 
-1. Download the latest PersiaLauncher release.
+1. Download the latest [PersiaLauncher](https://github.com/emanf/PersiaLauncher/releases/latest) release.
 2. Open the launcher and choose your Minecraft directory.
 3. Add an account or create a local profile.
 4. Select a Minecraft version and loader.
