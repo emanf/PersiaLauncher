@@ -2,6 +2,16 @@
 
 **🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
+<p align="center">
+  <img src="screenshots/ss_main.png" alt="PersiaLauncher main screen" width="48%">
+  <img src="screenshots/ss_clients.png" alt="PersiaLauncher clients screen" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/ss_accounts.png" alt="PersiaLauncher accounts screen" width="48%">
+  <img src="screenshots/ss_mods.png" alt="PersiaLauncher mods screen" width="48%">
+</p>
+
 > **Your Minecraft world. Your rules. Your launcher.**
 
 PersiaLauncher is a friendly, modern Minecraft launcher built for players who want their worlds, profiles, servers, mods, and settings in one beautifully organized place.
@@ -31,18 +41,6 @@ PersiaLauncher keeps the complicated parts out of your way while still giving yo
 - 🎨 Choose themes, colors, language, window behavior, and display settings
 - 📁 Choose a custom Minecraft directory and move your launcher without breaking relative paths
 - 🚀 Launch clients quickly with organized, reusable settings
-
-## 🖼️ Take a look
-
-<p align="center">
-  <img src="screenshots/ss_main.png" alt="PersiaLauncher main screen" width="48%">
-  <img src="screenshots/ss_clients.png" alt="PersiaLauncher clients screen" width="48%">
-</p>
-
-<p align="center">
-  <img src="screenshots/ss_accounts.png" alt="PersiaLauncher accounts screen" width="48%">
-  <img src="screenshots/ss_mods.png" alt="PersiaLauncher mods screen" width="48%">
-</p>
 
 ## 🧭 Getting started
 
