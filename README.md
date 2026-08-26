@@ -3,7 +3,7 @@
 تقدیم به تمام فارسی‌زبانان جهان؛
 </p>
 
-**🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+**🌍 Languages:** [English](README.md) · [فارسی.md) · [Español](README.es.md.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
 <p align="center">
   <img src="screenshots/ss_main.png" alt="PersiaLauncher main screen" width="48%">
@@ -13,6 +13,12 @@
 <p align="center">
   <img src="screenshots/ss_accounts.png" alt="PersiaLauncher accounts screen" width="48%">
   <img src="screenshots/ss_mods.png" alt="PersiaLauncher mods screen" width="48%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/emanf/PersiaLauncher/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download latest PersiaLauncher release">
+  </a>
 </p>
 
 > **Your Minecraft world. Your rules. Your launcher.**
@@ -39,7 +45,7 @@ PersiaLauncher keeps the complicated parts out of your way while still giving yo
 - 🖥️ Manage Minecraft servers and server worlds
 - 📦 Keep separate profiles for different versions, modpacks, and play styles
 - 🧩 Browse and manage mods for supported modded clients
-- ☕ Configure Java profiles, memory, garbage collection, and extra JVM arguments
+- ☕ Configure Java profiles, memory, garbage colors, language, window behavior
 - 👤 Manage Minecraft accounts and skins
 - 🎨 Choose themes, colors, language, window behavior, and display settings
 - 📁 Choose a custom Minecraft directory and move your launcher without breaking relative paths
