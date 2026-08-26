@@ -1,63 +1,56 @@
-# ✨ PersiaLauncher
+# <img src="icon.ico" width="28px"> PersiaLauncher
+<p alignimg src="icon.ico" width="28px"> PersiaLauncher
+<p align="center">
 
 **🌍 Idiomas:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
+<p align="center"><img src="screenshots/ss_main.png" alt="Pantalla principal" width="48%"><img src="screenshots/ss_clients.png" alt="Clientes" width="48%"></p>
+<p align="center"><img src="screenshots/ss_accounts.png" alt="Cuentas" width="48%"><img src="screenshots/ss_mods.png" alt="Mods" width="48%"></p>
+<p align="center"><a href="https://github.com/emanf/PersiaLauncher/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Descargar la última versión"></a></p>
+
 > **Tu mundo de Minecraft. Tus reglas. Tu launcher.**
 
-PersiaLauncher es un launcher moderno y ordenado para gestionar clientes, perfiles, servidores, cuentas, mods y ajustes de Minecraft desde un solo lugar.
+PersiaLauncher es un launcher moderno para gestionar mundos, perfiles, servidores, mods y ajustes de Minecraft desde un solo lugar.
 
-Juega en Vanilla, prepara instalaciones modded y cambia entre versiones y perfiles sin complicaciones.
+Crea perfiles Vanilla, prepara aventuras modded y cambia fácilmente entre varias versiones.
 
-## Loaders compatibles
+<p align="center"><strong>🎮 Vanilla</strong>&nbsp;&nbsp;•&nbsp;&nbsp;<strong>🧵 Fabric</strong>&nbsp;&nbsp;•&nbsp;&nbsp;<strong>🔨 Forge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;<strong>⚡ NeoForge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;<strong>🪡 Quilt</strong></p>
 
-**Vanilla · Fabric · Forge · NeoForge · Quilt**
+## 🌌 Un launcher para jugadores de verdad
 
-## Funciones
+PersiaLauncher mantiene lejos la complejidad, pero te da el control cuando lo necesitas. Crea clientes separados, elige tu loader, gestiona Java, instala mods y guarda los archivos donde quieras.
 
-- Gestión de clientes Vanilla, Fabric, Forge, NeoForge y Quilt
-- Gestión de servidores y mundos de servidor
-- Perfiles separados para versiones, modpacks y estilos de juego
-- Búsqueda y gestión de mods
-- Configuración de Java, memoria, Garbage Collection y argumentos JVM
-- Gestión de cuentas y skins
-- Temas, colores, idioma y opciones de ventana
-- Carpeta de Minecraft configurable
-- Inicio rápido con ajustes guardados
+### Lo que puedes hacer
 
-## 🖼️ Capturas
-
-<p align="center">
-  <img src="screenshots/ss_main.png" alt="Pantalla principal de PersiaLauncher" width="48%">
-  <img src="screenshots/ss_clients.png" alt="Pantalla de clientes" width="48%">
-</p>
-
-<p align="center">
-  <img src="screenshots/ss_accounts.png" alt="Pantalla de cuentas" width="48%">
-  <img src="screenshots/ss_mods.png" alt="Pantalla de mods" width="48%">
-</p>
+- 🧱 Gestionar clientes Vanilla, Fabric, Forge, NeoForge y Quilt
+- 🖥️ Gestionar servidores y mundos
+- 📦 Crear perfiles separados para versiones y modpacks
+- 🧩 Buscar y gestionar mods
+- ☕ Configurar Java, memoria y argumentos JVM
+- 👤 Gestionar cuentas y skins
+- 🎨 Elegir temas, colores, idioma y ajustes de pantalla
+- 📁 Elegir una carpeta personalizada de Minecraft
+- 🚀 Iniciar clientes rápidamente
 
 ## 🧭 Primeros pasos
 
 1. Descarga la última versión de PersiaLauncher.
-2. Abre el launcher y elige tu carpeta de Minecraft.
+2. Elige tu carpeta de Minecraft.
 3. Añade una cuenta o crea un perfil.
-4. Selecciona la versión de Minecraft y el loader.
-5. Pulsa **Create**, configura el perfil y empieza a jugar.
-
-En el primer inicio pueden descargarse archivos del juego, librerías, archivos del loader o Java.
+4. Selecciona la versión y el loader.
+5. Pulsa **Create** y empieza a jugar.
 
 ## 🛠️ Estado del proyecto
 
-PersiaLauncher sigue creciendo. Nuevas funciones, loaders y traducciones se añaden con el tiempo.
-
-¿Encontraste un error o tienes una idea? Abre un Issue e indica la versión de Minecraft y todos los detalles posibles.
+PersiaLauncher sigue creciendo. Nuevas funciones y traducciones se añaden con el tiempo.
 
 ## 🤝 Contribuir
 
-Las traducciones, pruebas, capturas, documentación, ideas y código son bienvenidos.
+Las ideas, traducciones, pruebas, capturas, documentación y código son bienvenidos.
 
 ## 📄 Licencia
 
-PersiaLauncher se publica bajo la [PersiaLauncher Community License](LICENSE). Puedes usarlo, publicarlo, subirlo, hacer forks y redistribuirlo gratis para fines personales o comerciales, manteniendo la atribución y las condiciones de la licencia.
+PersiaLauncher se puede usar, subir, forkar y redistribuir gratis para fines personales o comerciales bajo la [PersiaLauncher Community License](LICENSE).
 
-[Volver al README en inglés](README.md)
+---
+<p align="center"><strong>Hecho con 💚 para la comunidad de Minecraft</strong><br><sub>PersiaLauncher — juega más, configura menos.</sub></p>
