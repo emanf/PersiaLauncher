@@ -1,9 +1,10 @@
-# <img src="icon.ico" width="28px"> PersiaLauncher
+# PersiaLauncher
+
 <p align="center">
 تقدیم به تمام فارسی‌زبانان جهان؛
 </p>
-  
-**🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+
+**Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
 <p align="center">
   <img src="screenshots/ss_main.png" alt="PersiaLauncher main screen" width="48%">
@@ -28,30 +29,29 @@ PersiaLauncher is a friendly, modern Minecraft launcher built for players who wa
 Create a clean Vanilla profile, build a modded adventure, manage servers, or jump between multiple Minecraft versions without losing track of anything.
 
 <p align="center">
-  <strong>🎮 Vanilla</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🧵 Fabric</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🔨 Forge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>⚡ NeoForge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🪡 Quilt</strong>
+  <strong>Vanilla</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Fabric</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Forge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>NeoForge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Quilt</strong>
 </p>
 
-## 🌌 A launcher made for real players
+## A launcher made for real players
 
 PersiaLauncher keeps the complicated parts out of your way while still giving you control when you want it. Set up separate clients, choose your loader, manage Java runtimes, install mods, and keep your Minecraft files exactly where you want them.
 
 ### What you can do
 
-- 🧱 Create and manage Vanilla, Fabric, Forge, NeoForge, and Quilt clients
-- 🖥️ Manage Minecraft servers and server worlds
-- 📦 Keep separate profiles for different versions, modpacks, and play styles
-- 🧩 Browse and manage mods for supported modded clients
-- ☕ Configure Java profiles, memory, garbage collection, and extra JVM arguments
-- 👤 Manage Minecraft accounts and skins
-- 🎨 Choose themes, colors, language, window behavior, and display settings
-- 📁 Choose a custom Minecraft directory and move your launcher without breaking relative paths
-- 🚀 Launch clients quickly with organized, reusable settings
+- Create and manage Vanilla, Fabric, Forge, NeoForge, and Quilt clients
+- Manage Minecraft servers and server worlds
+- Keep separate profiles for different versions, modpacks, and play styles
+- Browse and manage mods for supported modded clients
+- Configure Java profiles, memory, garbage collection, and extse and manage mods for supported modded clients
+- Configure Java profiles, memory, garbage collection, and extra JVM arguments
+- Manage Minecraft accounts and  relative paths
+- Launch clients quickly with organized, reusable settings
 
-## 🧭 Getting started
+## Getting started
 
 1. Download the latest [PersiaLauncher](https://github.com/emanf/PersiaLauncher/releases/latest) release.
 2. Open the launcher and choose your Minecraft directory.
@@ -61,23 +61,23 @@ PersiaLauncher keeps the complicated parts out of your way while still giving yo
 
 Your first launch may download game files, libraries, loader files, or a Java runtime. After that, everything is ready for the next adventure.
 
-## 🛠️ Project status
+## Project status
 
 PersiaLauncher is actively evolving. New improvements, loader support, quality-of-life features, and language updates are added over time.
 
 If you find a bug or have an idea, please open an issue and tell us what happened, what you expected, and which Minecraft version you were using.
 
-## 🤝 Contributing
+## Contributing
 
 Ideas, translations, testing, screenshots, documentation, and code are all welcome. Small improvements matter, and every contribution helps make the launcher better for the community.
 
-## 📄 License
+## License
 
 PersiaLauncher is free to use, share, upload, fork, and redistribute for personal purposes.
 
 ---
 
 <p align="center">
-  <strong>Made with 💚 for the Minecraft community</strong><br>
+  <strong>Made with love for the Minecraft community</strong><br>
   <sub>PersiaLauncher — play more, configure less.</sub>
 </p>
